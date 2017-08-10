@@ -681,7 +681,7 @@ Mon113_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 12,THAIL_WHIP
+	db 12,TAIL_WHIP
 	db 24,SING
 	db 30,GROWL
 	db 38,MINIMIZE
@@ -1547,6 +1547,7 @@ Mon057_EvosMoves:
 	db 21,FURY_SWIPES
 	db 27,FOCUS_ENERGY
 	db 37,SEISMIC_TOSS
+	db 41,SCREECH
 	db 46,THRASH
 	db 0
 

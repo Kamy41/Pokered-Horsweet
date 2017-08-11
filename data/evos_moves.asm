@@ -321,11 +321,12 @@ Mon108_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 7,STOMP
-	db 15,DISABLE
-	db 23,DEFENSE_CURL
-	db 31,SLAM
-	db 39,SCREECH
+	db 7,WRAP
+	db 15,STOMP
+	db 23,DISABLE
+	db 31,DEFENSE_CURL
+	db 39,SLAM
+	db 47,SCREECH
 	db 0
 
 Mon102_EvosMoves:
@@ -1830,6 +1831,7 @@ Mon105_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
+	db 18,HEADBUTT
 	db 25,LEER
 	db 33,FOCUS_ENERGY
 	db 41,THRASH

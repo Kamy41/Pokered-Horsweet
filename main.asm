@@ -616,6 +616,7 @@ GolemPicBack::        INCBIN "pic/monback/golemb.pic"
 MagmarPicFront::      INCBIN "pic/bmon/magmar.pic"
 MagmarPicBack::       INCBIN "pic/monback/magmarb.pic"
 
+
 SECTION "Battle (bank A)", ROMX, BANK[$A]
 INCLUDE "engine/battle/moveEffects/leech_seed_effect.asm"
 
@@ -684,8 +685,6 @@ PoliwhirlPicFront::   INCBIN "pic/bmon/poliwhirl.pic"
 PoliwhirlPicBack::    INCBIN "pic/monback/poliwhirlb.pic"
 PoliwrathPicFront::   INCBIN "pic/bmon/poliwrath.pic"
 PoliwrathPicBack::    INCBIN "pic/monback/poliwrathb.pic"
-
-FossilKabutopsPic::   INCBIN "pic/bmon/fossilkabutops.pic"
 
 
 SECTION "Battle (bank B)", ROMX, BANK[$B]
@@ -812,6 +811,7 @@ WartortlePicFront::    INCBIN "pic/bmon/wartortle.pic"
 WartortlePicBack::     INCBIN "pic/monback/wartortleb.pic"
 CharizardPicFront::    INCBIN "pic/bmon/charizard.pic"
 CharizardPicBack::     INCBIN "pic/monback/charizardb.pic"
+FossilKabutopsPic::    INCBIN "pic/bmon/fossilkabutops.pic"
 FossilAerodactylPic::  INCBIN "pic/bmon/fossilaerodactyl.pic"
 GhostPic::             INCBIN "pic/other/ghost.pic"
 OddishPicFront::       INCBIN "pic/bmon/oddish.pic"

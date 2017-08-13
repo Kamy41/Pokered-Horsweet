@@ -657,6 +657,7 @@ Mon064_EvosMoves:
 ;Learnset
 	db 16,CONFUSION
 	db 20,DISABLE
+	db 24,KINESIS
 	db 27,PSYBEAM
 	db 31,RECOVER
 	db 38,PSYCHIC_M
@@ -1871,6 +1872,7 @@ Mon065_EvosMoves:
 ;Learnset
 	db 16,CONFUSION
 	db 20,DISABLE
+	db 24,KINESIS
 	db 27,PSYBEAM
 	db 31,RECOVER
 	db 38,PSYCHIC_M

@@ -875,6 +875,8 @@ JynxPicFront::        INCBIN "pic/bmon/jynx.pic"
 JynxPicBack::         INCBIN "pic/monback/jynxb.pic"
 MoltresPicFront::     INCBIN "pic/bmon/moltres.pic"
 MoltresPicBack::      INCBIN "pic/monback/moltresb.pic"
+MissingnoPicFront::   INCBIN "pic/bmon/missingno..pic"
+MissingnoPicBack::    INCBIN "pic/monback/missingno.b.pic"
 
 SECTION "Battle (bank D)", ROMX, BANK[$D]
 

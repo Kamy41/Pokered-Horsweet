@@ -547,13 +547,13 @@ Mon127_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 21,BIND
 	db 25,SEISMIC_TOSS
 	db 30,GUILLOTINE
 	db 36,FOCUS_ENERGY
 	db 43,HARDEN
 	db 49,SLASH
 	db 54,SWORDS_DANCE
+	db 59,TWINEEDLE
 	db 0
 
 Mon114_EvosMoves:
@@ -961,6 +961,7 @@ Mon083_EvosMoves:
 	db 23,SWORDS_DANCE
 	db 31,AGILITY
 	db 39,SLASH
+	db 47,WING_ATTACK
 	db 0
 
 Mon048_EvosMoves:
@@ -1176,6 +1177,7 @@ Mon025_EvosMoves:
 Mon026_EvosMoves:
 ;RAICHU
 ;Evolutions
+	db 33,THUNDERBOLT 
 	db 0
 ;Learnset
 	db 0
@@ -1293,6 +1295,7 @@ Mon027_EvosMoves:
 	db 24,POISON_STING
 	db 31,SWIFT
 	db 38,FURY_SWIPES
+	db 45,DIG
 	db 0
 
 Mon028_EvosMoves:
@@ -1305,6 +1308,7 @@ Mon028_EvosMoves:
 	db 27,POISON_STING
 	db 36,SWIFT
 	db 47,FURY_SWIPES
+	db 56,DIG
 	db 0
 
 Mon138_EvosMoves:

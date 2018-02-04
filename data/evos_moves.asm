@@ -323,7 +323,7 @@ Mon108_EvosMoves:
 ;Learnset
 	db 7,WRAP
 	db 15,STOMP
-	db 23,DISABLE
+	db 23,LICK
 	db 31,DEFENSE_CURL
 	db 39,SLAM
 	db 47,SCREECH

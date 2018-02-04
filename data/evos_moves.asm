@@ -200,7 +200,7 @@ Mon112_EvosMoves:
 	db 40,FURY_ATTACK
 	db 48,HORN_DRILL
 	db 55,LEER
-	db 64,TAKE_DOWN
+	db 64,EARTHQUAKE
 	db 0
 
 Mon115_EvosMoves:
@@ -314,7 +314,7 @@ Mon103_EvosMoves:
 	db 0
 ;Learnset
 	db 28,STOMP
-	db 0
+	db 36,RAZOR_LEAF
 
 Mon108_EvosMoves:
 ;LICKITUNG
@@ -415,7 +415,7 @@ Mon111_EvosMoves:
 	db 40,FURY_ATTACK
 	db 45,HORN_DRILL
 	db 50,LEER
-	db 55,TAKE_DOWN
+	db 55,EARTHQUAKE
 	db 0
 
 Mon131_EvosMoves:
@@ -926,7 +926,7 @@ Mon128_EvosMoves:
 	db 21,STOMP
 	db 28,TAIL_WHIP
 	db 35,LEER
-	db 44,RAGE
+	db 44,HORN_ATTACK
 	db 51,TAKE_DOWN
 	db 0
 
@@ -1178,7 +1178,7 @@ Mon026_EvosMoves:
 ;RAICHU
 ;Evolutions
 	db 33,THUNDERBOLT 
-	db 0
+	db 43,THUNDERBOLT
 ;Learnset
 	db 0
 
@@ -1319,8 +1319,8 @@ Mon138_EvosMoves:
 ;Learnset
 	db 34,HORN_ATTACK
 	db 39,LEER
-	db 46,SPIKE_CANNON
-	db 53,HYDRO_PUMP
+	db 44,SPIKE_CANNON
+	db 49,HYDRO_PUMP
 	db 0
 
 Mon139_EvosMoves:
@@ -1330,8 +1330,8 @@ Mon139_EvosMoves:
 ;Learnset
 	db 34,HORN_ATTACK
 	db 39,LEER
-	db 44,SPIKE_CANNON
-	db 49,HYDRO_PUMP
+	db 46,SPIKE_CANNON
+	db 53,HYDRO_PUMP
 	db 0
 
 Mon039_EvosMoves:
@@ -1478,7 +1478,7 @@ Mon061_EvosMoves:
 ;Learnset
 	db 16,HYPNOSIS
 	db 19,WATER_GUN
-	db 26,DOUBLESLAP
+	db 26,LOW_KICK
 	db 33,BODY_SLAM
 	db 41,AMNESIA
 	db 49,HYDRO_PUMP

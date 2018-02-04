@@ -12,7 +12,7 @@ INCBIN "pic/bmon/nidoqueen.pic",0,1 ; 77, sprite dimensions
 dw NidoqueenPicFront
 dw NidoqueenPicBack
 ; attacks known at lvl 0
-db TACKLE
+db DOUBLE_KICK
 db SCRATCH
 db TAIL_WHIP
 db BODY_SLAM

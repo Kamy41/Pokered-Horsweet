@@ -1228,7 +1228,7 @@ Mon140_EvosMoves:
 	db EV_LEVEL,40,KABUTOPS
 	db 0
 ;Learnset
-	db 34,ABSORB
+	db 34,LEECH_LIFE
 	db 39,SLASH
 	db 44,LEER
 	db 49,HYDRO_PUMP
@@ -1239,7 +1239,7 @@ Mon141_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 34,ABSORB
+	db 34,LEECH_LIFE
 	db 39,SLASH
 	db 46,LEER
 	db 53,HYDRO_PUMP
@@ -1904,7 +1904,7 @@ Mon018_EvosMoves:
 ;Learnset
 	db 5,SAND_ATTACK
 	db 12,QUICK_ATTACK
-	db 21,WHIRLWIND
+	db 21,DOUBLE_TEAM
 	db 31,WING_ATTACK
 	db 44,AGILITY
 	db 54,MIRROR_MOVE

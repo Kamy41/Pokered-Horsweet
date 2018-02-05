@@ -290,7 +290,7 @@ Mon080_EvosMoves:
 	db 33,WATER_GUN
 	db 37,WITHDRAW
 	db 44,AMNESIA
-	db 55,PSYCHIC_M
+	db 54,PSYCHIC_M
 	db 0
 
 Mon002_EvosMoves:
@@ -646,7 +646,7 @@ Mon079_EvosMoves:
 	db 27,GROWL
 	db 33,WATER_GUN
 	db 40,AMNESIA
-	db 48,PSYCHIC_M
+	db 47,PSYCHIC_M
 	db 0
 
 Mon064_EvosMoves:
@@ -1051,7 +1051,7 @@ Mon124_EvosMoves:
 	db 31,ICE_PUNCH
 	db 39,BODY_SLAM
 	db 47,THRASH
-	db 58,BLIZZARD
+	db 56,BLIZZARD
 	db 0
 
 Mon146_EvosMoves:
@@ -1252,7 +1252,7 @@ Mon116_EvosMoves:
 	db 0
 ;Learnset
 	db 19,SMOKESCREEN
-	db 24,LEER
+	db 24,DEFENSE_CURL
 	db 30,WATER_GUN
 	db 37,AGILITY
 	db 45,HYDRO_PUMP
@@ -1264,7 +1264,7 @@ Mon117_EvosMoves:
 	db 0
 ;Learnset
 	db 19,SMOKESCREEN
-	db 24,LEER
+	db 24,DEFENSE_CURL
 	db 30,WATER_GUN
 	db 41,AGILITY
 	db 52,HYDRO_PUMP

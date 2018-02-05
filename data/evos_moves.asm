@@ -1178,7 +1178,7 @@ Mon026_EvosMoves:
 ;RAICHU
 ;Evolutions
 	db 33,THUNDERBOLT 
-	db 43,THUNDERBOLT
+	db 43,REFLECT
 ;Learnset
 	db 0
 

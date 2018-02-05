@@ -200,7 +200,7 @@ Mon112_EvosMoves:
 	db 40,FURY_ATTACK
 	db 48,HORN_DRILL
 	db 55,LEER
-	db 64,EARTHQUAKE
+	db 61,EARTHQUAKE
 	db 0
 
 Mon115_EvosMoves:

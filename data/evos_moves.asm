@@ -314,7 +314,7 @@ Mon103_EvosMoves:
 	db 0
 ;Learnset
 	db 28,STOMP
-	db 36,RAZOR_LEAF
+	db 37,RAZOR_LEAF
 
 Mon108_EvosMoves:
 ;LICKITUNG
@@ -1478,7 +1478,7 @@ Mon061_EvosMoves:
 ;Learnset
 	db 16,HYPNOSIS
 	db 19,WATER_GUN
-	db 26,LOW_KICK
+	db 26,KARATE_CHOP
 	db 33,BODY_SLAM
 	db 41,AMNESIA
 	db 49,HYDRO_PUMP

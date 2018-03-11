@@ -581,6 +581,8 @@ SECTION "Pics 2", ROMX, BANK[PICS_2]
 
 GrowlithePicFront::   INCBIN "pic/bmon/growlithe.pic"
 GrowlithePicBack::    INCBIN "pic/monback/growlitheb.pic"
+MissingnoPicFront::   INCBIN "pic/bmon/missingno.pic"
+MissingnoPicBack::    INCBIN "pic/monback/missingnob.pic"
 OnixPicFront::        INCBIN "pic/bmon/onix.pic"
 OnixPicBack::         INCBIN "pic/monback/onixb.pic"
 FearowPicFront::      INCBIN "pic/bmon/fearow.pic"

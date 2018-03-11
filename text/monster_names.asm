@@ -1,4 +1,5 @@
 MonsterNames:
+	db "MISSINGNO@"
 	db "RHYDON@@@@"
 	db "KANGASKHAN"
 	db "NIDORAN♂@@"

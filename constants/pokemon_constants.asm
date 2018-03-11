@@ -1,5 +1,6 @@
 const_value = 1
 
+        const MISSINGNO    ; $00
 	const RHYDON       ; $01
 	const KANGASKHAN   ; $02
 	const NIDORAN_M    ; $03

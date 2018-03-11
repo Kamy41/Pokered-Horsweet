@@ -1,5 +1,6 @@
 DungeonMonsB1:
 	db $19
+	db 55,MISSINGNO
 	db 55,RHYDON
 	db 55,MAROWAK
 	db 55,ELECTRODE

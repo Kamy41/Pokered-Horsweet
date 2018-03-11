@@ -1,3 +1,13 @@
+_MissingnoDexEntry::
+        text "A weird, forgotten"
+	next "#MON that is"
+	next "said to come from"
+
+	page "a distorted world."
+	next "He lays in bones"
+	next "of old fossils"
+	dex
+	
 _RhydonDexEntry::
 	text "Protected by an"
 	next "armor-like hide,"

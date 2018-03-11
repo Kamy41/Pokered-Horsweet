@@ -1,5 +1,4 @@
-PokedexEntryPointers:
-	dw MissingnoDexEntry
+PokedexEntryPointers:	
 	dw RhydonDexEntry
 	dw KangaskhanDexEntry
 	dw NidoranMDexEntry
@@ -30,7 +29,7 @@ PokedexEntryPointers:
 	dw BlastoiseDexEntry
 	dw PinsirDexEntry
 	dw TangelaDexEntry
-	dw MissingNoDexEntry
+	dw MissingnoDexEntry
 	dw MissingNoDexEntry
 	dw GrowlitheDexEntry
 	dw OnixDexEntry
@@ -196,13 +195,6 @@ PokedexEntryPointers:
 ; weight in pounds
 ; text entry
 
-MissingnoDexEntry:
-        db "ENTROPY@"
-	db 9,8
-	dw 2150
-	TX_FAR _MissingnoDexEntry
-	db "@" 
-	
 RhydonDexEntry:
 	db "DRILL@"
 	db 6,3
@@ -411,6 +403,13 @@ TangelaDexEntry:
 	db 3,3
 	dw 770
 	TX_FAR _TangelaDexEntry
+	db "@"
+	
+MissingnoDexEntry:
+        db "ENTROPY@"
+	db 9,8
+	dw 2150
+	TX_FAR _MissingnoDexEntry
 	db "@"
 
 GrowlitheDexEntry:

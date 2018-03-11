@@ -1,5 +1,4 @@
-MonsterNames:
-	db "MISSINGNO@"
+MonsterNames:	
 	db "RHYDON@@@@"
 	db "KANGASKHAN"
 	db "NIDORAN♂@@"
@@ -30,7 +29,7 @@ MonsterNames:
 	db "BLASTOISE@"
 	db "PINSIR@@@@"
 	db "TANGELA@@@"
-	db "MISSINGNO."
+	db "MISSINGNO@"
 	db "MISSINGNO."
 	db "GROWLITHE@"
 	db "ONIX@@@@@@"

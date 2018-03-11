@@ -1,4 +1,5 @@
 PokedexEntryPointers:
+	dw MissingnoDexEntry
 	dw RhydonDexEntry
 	dw KangaskhanDexEntry
 	dw NidoranMDexEntry

@@ -723,6 +723,10 @@ UncompressMonSprite::
     ld a,[hl]
     ld [wSpriteInputPtr+1],a
     ld a,[wcf91] ; XXX name for this ram location
+    cp MISSINGNO
+    ld a,BANK(MissingnoPicFront)
+    jr z,.GotBank
+    ld a,b
     cp FOSSIL_KABUTOPS
     jr z,.RecallBank
     cp FOSSIL_AERODACTYL

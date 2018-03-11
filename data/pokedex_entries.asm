@@ -196,6 +196,13 @@ PokedexEntryPointers:
 ; weight in pounds
 ; text entry
 
+MissingnoDexEntry:
+        db "ENTROPY@"
+	db 9,8
+	dw 2150
+	TX_FAR _MissingnoDexEntry
+	db "@" 
+	
 RhydonDexEntry:
 	db "DRILL@"
 	db 6,3

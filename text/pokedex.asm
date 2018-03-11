@@ -1,13 +1,3 @@
-_MissingnoDexEntry::
-        text "A weird, forgotten"
-	next "#MON that is"
-	next "said to come from"
-
-	page "a distorted world."
-	next "He lays in bones"
-	next "of old fossils"
-	dex
-	
 _RhydonDexEntry::
 	text "Protected by an"
 	next "armor-like hide,"
@@ -306,6 +296,16 @@ _TangelaDexEntry::
 	page "similar to sea-"
 	next "weed. Its vines"
 	next "shake as it walks"
+	dex
+	
+_MissingnoDexEntry::
+        text "A weird, forgotten"
+	next "#MON that is"
+	next "said to come from"
+
+	page "a distorted world."
+	next "He lays in bones"
+	next "of old fossils"
 	dex
 
 _GrowlitheDexEntry::

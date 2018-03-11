@@ -1,5 +1,4 @@
-EvosMovesPointerTable:
-	dw Mon000_EvosMoves
+EvosMovesPointerTable:	
 	dw Mon112_EvosMoves
 	dw Mon115_EvosMoves
 	dw Mon032_EvosMoves
@@ -30,7 +29,7 @@ EvosMovesPointerTable:
 	dw Mon009_EvosMoves
 	dw Mon127_EvosMoves
 	dw Mon114_EvosMoves
-	dw Mon152_EvosMoves ;MissingNo
+	dw Mon152_EvosMoves
 	dw Mon153_EvosMoves ;MissingNo
 	dw Mon058_EvosMoves
 	dw Mon095_EvosMoves
@@ -191,19 +190,6 @@ EvosMovesPointerTable:
 	dw Mon070_EvosMoves
 	dw Mon071_EvosMoves
 
-Mon000_EvosMoves:
-;MISSINGNO
-;Evolutions
-	db 0
-;Learnset
-	db 36,MINIMIZE
-	db 45,PSYWAVE
-	db 54,AGILITY
-	db 63,TWINEEDLE
-	db 72,ACID_ARMOR
-	db 81,HYPER_BEAM
-	db 0
-	
 Mon112_EvosMoves:
 ;RHYDON
 ;Evolutions
@@ -589,6 +575,12 @@ Mon152_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
+	db 36,MINIMIZE
+	db 45,PSYWAVE
+	db 54,AGILITY
+	db 63,TWINEEDLE
+	db 72,ACID_ARMOR
+	db 81,HYPER_BEAM
 	db 0
 
 Mon153_EvosMoves:

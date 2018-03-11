@@ -1,4 +1,5 @@
 MonPartyData:
+	dn SPRITE_MON                           ;Missingno
 	dn SPRITE_GRASS, SPRITE_GRASS           ;Bulbasaur/Ivysaur
 	dn SPRITE_GRASS, SPRITE_MON             ;Venusaur/Charmander
 	dn SPRITE_MON, SPRITE_MON               ;Charmeleon/Charizard
@@ -34,7 +35,7 @@ MonPartyData:
 	dn SPRITE_MON, SPRITE_MON               ;Alakazam/Machop
 	dn SPRITE_MON, SPRITE_MON               ;Machoke/Machamp
 	dn SPRITE_GRASS, SPRITE_GRASS           ;Bellsprout/Weepinbell
-	dn SPRITE_GRASS, SPRITE_WATER           ;Victreebel/Tentacool
+	dn SPRITE_GRASS, SPRITE_WATER           ;Victreebel/Tentacool	
 	dn SPRITE_WATER, SPRITE_MON             ;Tentacruel/Geodude
 	dn SPRITE_MON, SPRITE_MON               ;Graveler/Golem
 	dn SPRITE_QUADRUPED, SPRITE_QUADRUPED   ;Ponyta/Rapidash
@@ -74,5 +75,4 @@ MonPartyData:
 	dn SPRITE_BIRD_M, SPRITE_BIRD_M         ;Zapdos/Moltres
 	dn SPRITE_SNAKE, SPRITE_SNAKE           ;Dratini/Dragonair
 	dn SPRITE_MON, SPRITE_MON               ;Dragonite/Mewtwo
-	dn SPRITE_MON, SPRITE_MON               ;Mew/Missingno
-	dn 0
+	dn SPRITE_MON, 0                        ;Mew/Padding

@@ -1,5 +1,6 @@
 const_value = 1
 
+	const DEX_MISSINGNO  ; 0
 	const DEX_BULBASAUR  ; 1
 	const DEX_IVYSAUR    ; 2
 	const DEX_VENUSAUR   ; 3
@@ -152,4 +153,4 @@ const_value = 1
 	const DEX_MEWTWO     ; 150
 	const DEX_MEW        ; 151
 
-NUM_POKEMON    EQU 151
+NUM_POKEMON    EQU 152

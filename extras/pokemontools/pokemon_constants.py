@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 pokemon_constants = {
+0: "MISSINGNO",
 1: "BULBASAUR",
 2: "IVYSAUR",
 3: "VENUSAUR",

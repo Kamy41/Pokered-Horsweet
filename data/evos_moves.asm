@@ -189,6 +189,7 @@ EvosMovesPointerTable:
 	dw Mon069_EvosMoves
 	dw Mon070_EvosMoves
 	dw Mon071_EvosMoves
+	dw Mon000_EvosMoves
 
 Mon112_EvosMoves:
 ;RHYDON
@@ -2346,3 +2347,17 @@ Mon071_EvosMoves:
 	db 15,POISONPOWDER
 	db 18,SLEEP_POWDER
 	db 0
+	
+Mon000_EvosMoves:
+;MISSINGNO
+;Evolutions
+	db 0
+;Learnset
+	db 36,MINIMIZE
+	db 45,PSYWAVE
+	db 54,AGILITY
+	db 63,TWINEEDLE
+	db 72,ACID_ARMOR
+	db 81,HYPER_BEAM
+	db 0
+	

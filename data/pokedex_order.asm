@@ -1,5 +1,4 @@
-PokedexOrder:
-	db DEX_MISSINGNO
+PokedexOrder:	
 	db DEX_RHYDON
 	db DEX_KANGASKHAN
 	db DEX_NIDORAN_M
@@ -30,7 +29,7 @@ PokedexOrder:
 	db DEX_BLASTOISE
 	db DEX_PINSIR
 	db DEX_TANGELA
-	db 0 ; MISSINGNO.
+	db DEX_MISSINGNO
 	db 0 ; MISSINGNO.
 	db DEX_GROWLITHE
 	db DEX_ONIX

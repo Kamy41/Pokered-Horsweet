@@ -31,7 +31,7 @@ CryData:
 	db $14, $00, $80; Pinsir
 	db $12, $00, $80; Tangela
 	db $11, $20, $80; Missingno
-	db $00, $00, $00; MissingNo.
+	db $19, $99, $FE; Fanfan
 	db $1F, $20, $40; Growlithe
 	db $17, $FF, $C0; Onix
 	db $18, $40, $A0; Fearow

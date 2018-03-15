@@ -31,7 +31,7 @@ const_value = 1
 	const PINSIR       ; $1D
 	const TANGELA      ; $1E
 	const MISSINGNO    ; $1F
-	const MISSINGNO_20 ; $20
+	const FANFAN       ; $20
 	const GROWLITHE    ; $21
 	const ONIX         ; $22
 	const FEAROW       ; $23

@@ -152,3 +152,4 @@ MonsterPalettes:
 	db PAL_MEWMON    ; MEWTWO
 	db PAL_MEWMON    ; MEW
 	db PAL_MEWMON    ; MISSINGNO
+	db PAL_GREYMON   ; FANFAN

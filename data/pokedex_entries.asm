@@ -30,7 +30,7 @@ PokedexEntryPointers:
 	dw PinsirDexEntry
 	dw TangelaDexEntry
 	dw MissingnoDexEntry
-	dw MissingNoDexEntry
+	dw FanfanDexEntry
 	dw GrowlitheDexEntry
 	dw OnixDexEntry
 	dw FearowDexEntry
@@ -410,6 +410,13 @@ MissingnoDexEntry:
 	db 9,8
 	dw 2150
 	TX_FAR _MissingnoDexEntry
+	db "@"
+
+FanfansDexEntry:
+	db "FACE SWAP@"
+	db 3,75
+	dw 1323
+	TX_FAR _FanfanDexEntry
 	db "@"
 
 GrowlitheDexEntry:

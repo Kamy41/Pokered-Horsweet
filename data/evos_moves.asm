@@ -584,11 +584,19 @@ Mon152_EvosMoves:
 	db 0
 
 Mon153_EvosMoves:
-;MISSINGNO
+;FANFAN
 ;Evolutions
 	db 0
 ;Learnset
-	db 0
+	db 5,NIGHT_SHADE
+	db 10,PAY_DAY
+	db 15,RECOVER
+	db 20,LOVELY_KISS
+	db 25,TRANSFORM
+	db 30,CONFUSE_RAY
+	db 40,MIMIC
+	db 50,COUNTER
+	db 55,THRASH
 
 Mon058_EvosMoves:
 ;GROWLITHE

@@ -30,7 +30,7 @@ EvosMovesPointerTable:
 	dw Mon127_EvosMoves
 	dw Mon114_EvosMoves
 	dw Mon152_EvosMoves
-	dw Mon153_EvosMoves ;MissingNo
+	dw Mon153_EvosMoves
 	dw Mon058_EvosMoves
 	dw Mon095_EvosMoves
 	dw Mon022_EvosMoves

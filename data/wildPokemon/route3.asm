@@ -1,11 +1,11 @@
 Route3Mons:
 	db $14
-	db 6,PIDGEY
+	db 6,FANFAN
 	db 5,SPEAROW
-	db 7,PIDGEY
+	db 7,FANFAN
 	db 6,SPEAROW
 	db 7,SPEAROW
-	db 8,PIDGEY
+	db 8,FANFAN
 	db 8,SPEAROW
 	db 3,JIGGLYPUFF
 	db 5,JIGGLYPUFF

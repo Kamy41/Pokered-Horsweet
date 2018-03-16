@@ -308,6 +308,16 @@ _MissingnoDexEntry::
 	next "of old fossils"
 	dex
 
+_FanfanDexEntry::
+        text "Hedonist and"
+	next "egocentric."
+	next "It can change"
+
+	page "his face into"
+	next "the trainer's"
+	next "one"
+	dex
+
 _GrowlitheDexEntry::
 	text "Very protective"
 	next "of its territory."

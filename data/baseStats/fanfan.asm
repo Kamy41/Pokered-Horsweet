@@ -5,8 +5,8 @@ db 50 ; base defense
 db 50 ; base speed
 db 50 ; base special
 db NORMAL ; species type 1
-db GHOST ; species type 2
-db 50 ; catch rate
+db GHOST  ; species type 2
+db 255 ; catch rate
 db 255 ; base exp yield
 INCBIN "pic/bmon/fanfan.pic",0,1 ; 77, sprite dimensions
 dw FanfanPicFront

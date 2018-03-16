@@ -412,7 +412,7 @@ MissingnoDexEntry:
 	TX_FAR _MissingnoDexEntry
 	db "@"
 
-FanfansDexEntry:
+FanfanDexEntry:
 	db "FACE SWAP@"
 	db 3,75
 	dw 1323

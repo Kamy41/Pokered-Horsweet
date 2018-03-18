@@ -49,9 +49,9 @@ CryData:
 	db $21, $20, $60; Psyduck
 	db $0D, $88, $20; Drowzee
 	db $12, $E0, $40; Golem
-	db $00, $00, $00; MissingNo.
+	db $20, $A0, $19; MissingNo.
 	db $04, $FF, $30; Magmar
-	db $00, $00, $00; MissingNo.
+	db $20, $B4, $00; MissingNo.
 	db $06, $8F, $FF; Electabuzz
 	db $1C, $20, $C0; Magneton
 	db $12, $E6, $DD; Koffing

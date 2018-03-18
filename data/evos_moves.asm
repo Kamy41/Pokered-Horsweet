@@ -48,9 +48,9 @@ EvosMovesPointerTable:
 	dw Mon054_EvosMoves
 	dw Mon096_EvosMoves
 	dw Mon076_EvosMoves
-	dw Mon154_EvosMoves ;MissingNo
+	dw Mon154_EvosMoves 
 	dw Mon126_EvosMoves
-	dw Mon155_EvosMoves ;MissingNo
+	dw Mon155_EvosMoves 
 	dw Mon125_EvosMoves
 	dw Mon082_EvosMoves
 	dw Mon109_EvosMoves
@@ -820,11 +820,14 @@ Mon076_EvosMoves:
 	db 0
 
 Mon154_EvosMoves:
-;MISSINGNO
+;HORSYMEL
 ;Evolutions
+	db EV_LEVEL,30,HORSWEETH
 	db 0
 ;Learnset
-	db 0
+	db 5,MIMIC
+	db 10,FURY_ATTACK
+	db 24,BARRIER
 
 Mon126_EvosMoves:
 ;MAGMAR
@@ -840,11 +843,15 @@ Mon126_EvosMoves:
 	db 0
 
 Mon155_EvosMoves:
-;MISSINGNO
+;HORSWEETH
 ;Evolutions
 	db 0
 ;Learnset
-	db 0
+	db 30,PSYCHIC
+	db 35,BODY_SLAM
+	db 41,PETAL_DANCE
+	db 49,RECOVER
+	db,54,EGG_BOMB
 
 Mon125_EvosMoves:
 ;ELECTABUZZ

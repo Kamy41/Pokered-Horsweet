@@ -48,9 +48,9 @@ PokedexEntryPointers:
 	dw PsyduckDexEntry
 	dw DrowzeeDexEntry
 	dw GolemDexEntry
-	dw MissingNoDexEntry
+	dw HorsymelDexEntry
 	dw MagmarDexEntry
-	dw MissingNoDexEntry
+	dw HorsweethDexEntry
 	dw ElectabuzzDexEntry
 	dw MagnetonDexEntry
 	dw KoffingDexEntry

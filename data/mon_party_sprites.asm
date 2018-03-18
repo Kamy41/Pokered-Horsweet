@@ -75,4 +75,6 @@ MonPartyData:
 	dn SPRITE_SNAKE, SPRITE_SNAKE           ;Dratini/Dragonair
 	dn SPRITE_MON, SPRITE_MON               ;Dragonite/Mewtwo
 	dn SPRITE_MON, SPRITE_MON               ;Mew/Missingno
-	dn SPRITE_FAIRY, 0                      ;Fanfan/Padding
+	dn SPRITE_FAIRY, SPRITE_QUADRUPED       ;Fanfan/Horsymel
+	dn SPRITE_QUADRUPED, 0                  ;Horsweeth/Padding
+

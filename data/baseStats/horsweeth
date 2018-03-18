@@ -13,10 +13,10 @@ INCBIN "pic/bmon/horsweeth.pic",0,1 ; 66, sprite dimensions
 dw HorsweethPicFront
 dw HorsweethPicBack
 ; attacks known at lvl 0
-db TACKLE
-db GROWL
-db DEFENSE_CURL
-db DOUBLESLAP
+db 0
+db 0
+db 0
+db 0
 db 4 ; growth rate
 ; learnset
 	tmlearn 1,5,6,8

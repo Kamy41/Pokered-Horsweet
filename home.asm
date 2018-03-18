@@ -731,6 +731,14 @@ UncompressMonSprite::
     ld a,BANK(FanfanPicFront)
     jr z,.GotBank
     ld a,b
+    cp HORSYMEL
+    ld a,BANK(HorsymelPicFront)
+    jr z,.GotBank
+    ld a,b
+    cp HORSWEETH
+    ld a,BANK(HorsweethPicFront)
+    jr z,.GotBank
+    ld a,b 
     cp FOSSIL_KABUTOPS
     jr z,.RecallBank
     cp FOSSIL_AERODACTYL

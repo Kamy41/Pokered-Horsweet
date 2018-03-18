@@ -538,11 +538,25 @@ GolemDexEntry:
 	TX_FAR _GolemDexEntry
 	db "@"
 
+HorsymelDexEntry:
+	db "CANDY@"
+	db 7,6
+	dw 110
+	TX_FAR _HorsymelDexEntry
+	db "@"
+
 MagmarDexEntry:
 	db "SPITFIRE@"
 	db 4,3
 	dw 980
 	TX_FAR _MagmarDexEntry
+	db "@"
+
+HorsweethDexEntry:
+	db "CANDY@"
+	db 2,9
+	dw 1984
+	TX_FAR _HorsweethDexEntry
 	db "@"
 
 ElectabuzzDexEntry:

@@ -153,5 +153,7 @@ const_value = 1
 	const DEX_MEW        ; 151
         const DEX_MISSINGNO  ; 152
 	const DEX_FANFAN     ; 153
-	
+	const DEX_HORSYMEL   ; 154
+	const DEX_HORSWEETH  ; 155
+
 NUM_POKEMON    EQU 153

@@ -616,9 +616,12 @@ DrowzeePicFront::     INCBIN "pic/bmon/drowzee.pic"
 DrowzeePicBack::      INCBIN "pic/monback/drowzeeb.pic"
 GolemPicFront::       INCBIN "pic/bmon/golem.pic"
 GolemPicBack::        INCBIN "pic/monback/golemb.pic"
+HorsymelPicFront::    INCBIN "pic/bmon/horsymel.pic"
+HorsymelPicBack::     INCBIN "pic/monback/horsymel.pic"
 MagmarPicFront::      INCBIN "pic/bmon/magmar.pic"
 MagmarPicBack::       INCBIN "pic/monback/magmarb.pic"
-
+HorsweethPicFront::   INCBIN "pic/bmon/horsweeth.pic"
+HorsweethPicBack::    INCBIN "pic/monback/horsweethb.pic"
 
 SECTION "Battle (bank A)", ROMX, BANK[$A]
 INCLUDE "engine/battle/moveEffects/leech_seed_effect.asm"

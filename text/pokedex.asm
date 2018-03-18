@@ -487,6 +487,16 @@ _GolemDexEntry::
 	next "dynamite blasts"
 	next "without damage"
 	dex
+	
+_HorsymelDexEntry::
+	text "Affectionate and"
+	next "playful foal. It "
+	next "give happiness"
+
+	page "to the good- "
+	next "hearted Pokèmon"
+	next "trainers"
+	dex
 
 _MagmarDexEntry::
 	text "Its body always"
@@ -496,6 +506,16 @@ _MagmarDexEntry::
 	page "enables it to"
 	next "hide perfectly"
 	next "among flames"
+	dex
+
+_HorsweethDexEntry::
+	text "It's the producer"
+	next "of rare candies "
+	next "that grow on"
+
+	page "on his cloudy"
+	next "and soft"
+	next "coat"
 	dex
 
 _ElectabuzzDexEntry::

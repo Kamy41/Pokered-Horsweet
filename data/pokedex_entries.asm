@@ -540,7 +540,7 @@ GolemDexEntry:
 
 HorsymelDexEntry:
 	db "CANDY@"
-	db 7,6
+	db 2,9
 	dw 110
 	TX_FAR _HorsymelDexEntry
 	db "@"
@@ -554,7 +554,7 @@ MagmarDexEntry:
 
 HorsweethDexEntry:
 	db "CANDY@"
-	db 2,9
+	db 7,6
 	dw 1984
 	TX_FAR _HorsweethDexEntry
 	db "@"

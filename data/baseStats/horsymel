@@ -3,7 +3,7 @@ db 40 ; base hp
 db 60 ; base attack
 db 45 ; base defense
 db 45 ; base speed
-db 50 ; base special
+db 60 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 50 ; catch rate
@@ -13,9 +13,9 @@ dw HorsymelPicFront
 dw HorsymelPicBack
 ; attacks known at lvl 0
 db TACKLE
-db GROWL
-db DEFENSE_CURL
 db DOUBLESLAP
+db 0
+db 0
 db 4 ; growth rate
 ; learnset
 	tmlearn 1,5,6,8

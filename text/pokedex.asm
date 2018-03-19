@@ -494,7 +494,7 @@ _HorsymelDexEntry::
 	next "give happiness"
 
 	page "to the good- "
-	next "hearted Pokèmon"
+	next "hearted #MON"
 	next "trainers"
 	dex
 

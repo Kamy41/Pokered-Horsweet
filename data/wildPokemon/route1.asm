@@ -1,9 +1,9 @@
 Route1Mons:
 	db $19
 	db 3,PIDGEY
+	db 3,HORSYMEL
 	db 3,RATTATA
-	db 3,RATTATA
-	db 2,RATTATA
+	db 2,HORSYMEL
 	db 2,PIDGEY
 	db 3,PIDGEY
 	db 3,RATTATA

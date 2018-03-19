@@ -13,7 +13,7 @@ dw HorsweethPicFront
 dw HorsweethPicBack
 ; attacks known at lvl 0
 db TACKLE
-db 0
+db DOUBLESLAP
 db 0
 db 0
 db 4 ; growth rate
